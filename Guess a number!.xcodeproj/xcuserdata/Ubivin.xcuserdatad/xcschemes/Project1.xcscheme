@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0439D85519F4737C00B677A3"
-               BuildableName = "Project1"
-               BlueprintName = "Project1"
-               ReferencedContainer = "container:Project1.xcodeproj">
+               BuildableName = "Guess a number!"
+               BlueprintName = "Guess a number!"
+               ReferencedContainer = "container:Guess a number!.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0439D85519F4737C00B677A3"
-            BuildableName = "Project1"
-            BlueprintName = "Project1"
-            ReferencedContainer = "container:Project1.xcodeproj">
+            BuildableName = "Guess a number!"
+            BlueprintName = "Guess a number!"
+            ReferencedContainer = "container:Guess a number!.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0439D85519F4737C00B677A3"
-            BuildableName = "Project1"
-            BlueprintName = "Project1"
-            ReferencedContainer = "container:Project1.xcodeproj">
+            BuildableName = "Guess a number!"
+            BlueprintName = "Guess a number!"
+            ReferencedContainer = "container:Guess a number!.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0439D85519F4737C00B677A3"
-            BuildableName = "Project1"
-            BlueprintName = "Project1"
-            ReferencedContainer = "container:Project1.xcodeproj">
+            BuildableName = "Guess a number!"
+            BlueprintName = "Guess a number!"
+            ReferencedContainer = "container:Guess a number!.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

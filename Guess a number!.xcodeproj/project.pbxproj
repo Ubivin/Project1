@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0439D85619F4737C00B677A3 /* Project1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Project1; sourceTree = BUILT_PRODUCTS_DIR; };
+		0439D85619F4737C00B677A3 /* Guess a number! */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Guess a number!"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0439D85919F4737C00B677A3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		0439D85719F4737C00B677A3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0439D85619F4737C00B677A3 /* Project1 */,
+				0439D85619F4737C00B677A3 /* Guess a number! */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0439D85519F4737C00B677A3 /* Project1 */ = {
+		0439D85519F4737C00B677A3 /* Guess a number! */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0439D85D19F4737C00B677A3 /* Build configuration list for PBXNativeTarget "Project1" */;
+			buildConfigurationList = 0439D85D19F4737C00B677A3 /* Build configuration list for PBXNativeTarget "Guess a number!" */;
 			buildPhases = (
 				0439D85219F4737C00B677A3 /* Sources */,
 				0439D85319F4737C00B677A3 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = Project1;
+			name = "Guess a number!";
 			productName = Project1;
-			productReference = 0439D85619F4737C00B677A3 /* Project1 */;
+			productReference = 0439D85619F4737C00B677A3 /* Guess a number! */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0439D85119F4737C00B677A3 /* Build configuration list for PBXProject "Project1" */;
+			buildConfigurationList = 0439D85119F4737C00B677A3 /* Build configuration list for PBXProject "Guess a number!" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0439D85519F4737C00B677A3 /* Project1 */,
+				0439D85519F4737C00B677A3 /* Guess a number! */,
 			);
 		};
 /* End PBXProject section */
@@ -202,21 +202,21 @@
 		0439D85E19F4737C00B677A3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Guess a number!";
 			};
 			name = Debug;
 		};
 		0439D85F19F4737C00B677A3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Guess a number!";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0439D85119F4737C00B677A3 /* Build configuration list for PBXProject "Project1" */ = {
+		0439D85119F4737C00B677A3 /* Build configuration list for PBXProject "Guess a number!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0439D85B19F4737C00B677A3 /* Debug */,
@@ -225,7 +225,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0439D85D19F4737C00B677A3 /* Build configuration list for PBXNativeTarget "Project1" */ = {
+		0439D85D19F4737C00B677A3 /* Build configuration list for PBXNativeTarget "Guess a number!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0439D85E19F4737C00B677A3 /* Debug */,
